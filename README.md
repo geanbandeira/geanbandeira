@@ -1,4 +1,4 @@
-## Olá! Eu sou o Julius Cavalcante
+## Olá! Eu sou o Julius
 
 - 👷🏻‍♂️ Graduado em Engenharia Civil
 - 📚 Estudante de Engenharia de Dados
