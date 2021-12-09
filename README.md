@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Julius
 
 - 👷🏻‍♂️ Graduado em Engenharia Civil
-- 📚 Estudante de Engenharia de Dados
 - 📫 Email: julius.c@outlook.com.br
 
 
