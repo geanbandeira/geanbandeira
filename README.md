@@ -12,13 +12,14 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Julius-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">  
-  <img align="center" alt="Julius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Julius-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-   <img align="center" alt="Julius-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-   <img align="center" alt="Julius-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-   <img align="center" alt="Julius-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-    <img align="center" alt="Julius-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Julius-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="Julius-MySQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
+  <img align="center" alt="Julius-SpringBoot" height="30" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
+  <img align="center" alt="Julius-SpringMVC" height="30" width="40" src="https://img2.gratispng.com/20180812/owt/kisspng-spring-framework-software-framework-java-applicati-brian-scott-russell-5b6febc976ed74.1863036315340615134871.jpg">  
+    
+    
+  
+  
   
 </div>
   
