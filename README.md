@@ -12,16 +12,13 @@
 </div>
   
   <div style="display: inline_block"><br>
+  <img align="center" alt="Julius-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">  
   <img align="center" alt="Julius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Julius-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-   <img align="center" alt="Julius-Docker" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-   <img align="center" alt="Julius-Mysql" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-   <img align="center" alt="Julius-Pandas" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-    <img align="center" alt="Julius-Jupyter" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+   <img align="center" alt="Julius-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+   <img align="center" alt="Julius-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+   <img align="center" alt="Julius-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+    <img align="center" alt="Julius-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   
 </div>
   
