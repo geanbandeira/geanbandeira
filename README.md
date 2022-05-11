@@ -15,7 +15,7 @@
   <img align="center" alt="Julius-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="Julius-MySQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
   <img align="center" alt="Julius-SpringBoot" height="30" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
-  <img align="center" alt="Julius-SpringMVC" height="30" width="40" src="https://img2.gratispng.com/20180812/owt/kisspng-spring-framework-software-framework-java-applicati-brian-scott-russell-5b6febc976ed74.1863036315340615134871.jpg">  
+  <img align="center" alt="Julius-SpringMVC" height="30" width="40" src="https://banner2.cleanpng.com/20180812/owt/kisspng-spring-framework-software-framework-java-applicati-brian-scott-russell-5b6febc976ed74.1863036315340615134871.jpg">  
     
     
   
