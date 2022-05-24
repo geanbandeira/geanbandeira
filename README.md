@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Julius
 
 - 👷🏻‍♂️ Graduado em Engenharia Civil
--    Pós-Graduando em Engenharia de Software
+- 🖥️ Pós-Graduando em Engenharia de Software
 - 📫 Email: julius.c@outlook.com.br
--  Linkedln: https://www.linkedin.com/in/julius-cavalcante/
+- 💼 Linkedin: https://www.linkedin.com/in/julius-cavalcante/
 
 
 
