@@ -50,7 +50,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.instagram.com/juliuscavalcante/?theme=dark" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
@@ -64,4 +64,3 @@
 <img href="https://raw.githubusercontent.com/juliuscavalcante/juliuscavalcante/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-Profile Readme Generator
