@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👷🏻‍♂️ I have a degree in Civil Engineering<br>🖥️ I am specializing in Software Engineering<br>📍 Juiz de Fora - MG<br> 🇭🇺 FFC</p>
+<p align="left">👷🏻‍♂️ I have a degree in Civil Engineering<br>🖥️ I am specializing in Software Engineering<br>📍 Juiz de Fora - MG
 
 ###
 
