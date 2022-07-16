@@ -61,6 +61,4 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/juliuscavalcante/juliuscavalcante/blob/output/snake.svg" alt="Snake animation" />
 
-###
