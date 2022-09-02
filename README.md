@@ -1,4 +1,5 @@
 <h2 align="left">Hi. I am Julius</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliuscavalcante&label=Profile%20views&color=128dd9&style=flat" alt="juliuscavalcante" /> </p>
 
 ###
 
