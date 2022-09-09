@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliuscavalcante&theme=monokai"/>
 </div>
 
 ###
