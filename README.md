@@ -6,12 +6,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliuscavalcante&theme=monokai"/>
-</div>
-
-###
-
 <h4 align="left">Stacks that I have knowledge</h4>
 
 ###
