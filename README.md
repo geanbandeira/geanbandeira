@@ -1,8 +1,20 @@
+<div align="center">
+<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" align="center" style="width: 40%" />  
+</div>
+
 <h2 align="left">Hi. I am Julius</h2>
 
 ###
 
-<p align="left">👷🏻‍♂️ I have a degree in Civil Engineering<br>🖥️ I am specializing in Software Engineering<br>📍 Juiz de Fora - MG
+- 👷🏻‍♂️ I have a degree in Civil Engineering  
+  
+
+- 🖥️ I am specializing in Software Engineering  
+  
+
+- 📍 I'm from Juiz de Fora - MG, Brazil   
+
+## My Skills Set  
 
 ###
 
@@ -31,10 +43,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" width="52" alt="ionic logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
 </div>
+
+## Github Stats  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juliuscavalcante&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Connect with me 
 
 ###
 
@@ -53,5 +69,9 @@
 </div>
 
 ###
+
+<br>
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12157458683&cover_image=true&theme=default" /></div>  
 
 
