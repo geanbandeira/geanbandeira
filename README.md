@@ -46,7 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
 </div>
 
-## Github Stats  
+## Github Stats 
+
+### 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juliuscavalcante&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -69,9 +71,5 @@
 </div>
 
 ###
-
-<br>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12157458683&cover_image=true&theme=default" /></div>  
 
 
