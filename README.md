@@ -9,7 +9,7 @@
 - 👷🏻‍♂️ Estou me formando em Análise e Desenvolvimento de Sistemas
   
 
-- 🖥️ Estou me especializando em Java Spring Boot e React Js
+- 🖥️ Estou me especializando em React Js, MySQL e JavaScript
   
 
 - 📍 Sou de Itapecerica da Serra - SP, Brazil   
